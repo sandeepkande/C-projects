@@ -1,9 +1,7 @@
-#include<dos.h>
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
 #include <stdlib.h>
-#include <windows.h>
 char a[]={'0','1','2','3','4','5','6','7','8','9'};
 char b[]={'0','1','2','3','4','5','6','7','8','9'};
 
