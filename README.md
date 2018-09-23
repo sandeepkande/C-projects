@@ -1,1 +1,1 @@
-# dummy_project
+# the tic tac toe game in c language
